@@ -1,0 +1,19 @@
+{
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "name": "Get reel chrome extension",
+    "description": "This is a Chrome extension for downloading the instagram reels",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "get-reel",
+        "permissions": [
+            "clipboardWrite", 
+            "clipboardRead" 
+          
+          ],
+        "default_icon":{
+            "16":"logo2.png",
+            "128":"logo2.png"
+        }
+    }
+}

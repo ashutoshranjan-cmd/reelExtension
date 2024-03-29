@@ -1,0 +1,13 @@
+.loader{
+    margin-top: 2rem;
+    height: 3rem;
+    width: 10rem;
+}
+body{
+    width: 50rem;
+    overflow-y: hidden !important;
+    position: relative !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
